@@ -1,6 +1,4 @@
-# Spelling correction based on pretrained transformer models
 
-## Purpose
 
 This is an attempt to create a model that is able to fix spelling errors and 
 common typos. 
